@@ -8,4 +8,4 @@
 2.Second Item
 3.Third Time
 
-"Italicized text"
+*italicized text*
